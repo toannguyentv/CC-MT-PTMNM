@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #0f0e16;
+}
+
+/* Exp */
+.exp .card{
+    box-shadow: -1rem 0 3rem #000;
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: #1e1e24;
+}
+.card-title {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+.card-year{
+    margin: 10px 0;
+    color: #0bceaf;
+    font-size: 13px;
+}
+.card-text{
+    font-size: 14px;
+    line-height: 23px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+.card-link {
+    font-style: italic;
+    margin-left: 4px;
+    color: #0bceaf;
+}
+.title-card {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
