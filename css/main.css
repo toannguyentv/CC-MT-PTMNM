@@ -227,6 +227,38 @@ body {
 
 /* End Skills CSS */
 
+/* Portfolio CSS */
+.portfolio {
+  margin: 40px 0;
+}
+
+.portfolio h3 {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.portfolio .nav {
+  justify-content: space-evenly;
+}
+
+.portfolio .nav-pills .nav-link.active {
+  background-color: transparent;
+  border-bottom: 2px solid #007bff;
+  border-radius: 0;
+}
+
+.portfolio .nav .nav-item a {
+  color: white;
+  font-weight: bold;
+}
+
+.portfolio .tab-content img {
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+/* End Portfolio CSS */
+
 /* Exp */
 .exp .card {
   box-shadow: -1rem 0 3rem #000;
